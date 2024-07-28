@@ -14,7 +14,7 @@
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&&labelColor=black&logo=html5&logoColor=E34FX6)](https://discord.gg/yfD2Vmnr6F)
 [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://discord.gg/yfD2Vmnr6F)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=black)](https://discord.gg/yfD2Vmnr6F)
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://discord.gg/yfD2Vmnr6F)
+[![Python Badge](https://img.shields.io/badge/Python-FDE672?style=for-the-badge&logo=python&logoColor=blue&labelColor=black)](https://discord.gg/yfD2Vmnr6F)    
 
 
 [![Node.js Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=HamsterMert&theme=blue-green)](https://discord.gg/yfD2Vmnr6F)
