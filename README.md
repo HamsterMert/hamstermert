@@ -1,7 +1,7 @@
 ## Hi, I am HamsterMert! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### Who Is HamsterMert?
-#### My name is Mert. I'm 14 years old. I live in Samsun. I do software as a hobby. If you want to contact me, my contact information is written below.
+#### My name is Mert. I'm 15 years old. I live in Samsun. I do software as a hobby. If you want to contact me, my contact information is written below.
 
 ### My Links
 [![discordBadge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1138630972854763611)
