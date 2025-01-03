@@ -18,3 +18,6 @@
 
 
 [![Node.js Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=HamsterMert&theme=blue-green)](https://discord.gg/yfD2Vmnr6F)
+
+### Github Stats
+[![HamsterMert's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterMert)](https://github.com/HamsterMert)
