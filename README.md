@@ -17,7 +17,7 @@
   
 ## Tech Stack
 
-[![Instagram](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,lua,nodejs,robloxstudio,visualstudio,vscode,git,github,cloudflare)](https://github.com/HamsterMert)
+[![Instagram](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,lua,nodejs,robloxstudio,visualstudio,vscode,git,github,cloudflare,python)](https://github.com/HamsterMert)
 
 </div>
 
