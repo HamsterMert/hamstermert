@@ -11,7 +11,8 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamsterMert&repo=ticketbot&theme=dark)](https://github.com/HamsterMert/ticketbot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamsterMert&repo=cokluhaber&theme=dark)](https://github.com/HamsterMert/cokluhaber)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamsterMert&repo=ticketbot&theme=dark)](https://github.com/HamsterMert/ticketbot) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamsterMert&repo=cokluhaber&theme=dark)](https://github.com/HamsterMert/cokluhaber)
 
 </div>
   
